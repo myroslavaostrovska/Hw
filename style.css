@@ -20,11 +20,11 @@
     padding-top: 94px;
 }
 
-.container_img {
+.main_first--image {
     padding-top: 24px;
 }
 
-.container_title {
+.main_first--title {
     font-family: "Playfair Display", sans-serif;
     font-size: 144px;
     font-weight: 400;
@@ -33,7 +33,7 @@
     color: #FFFFFF;
 }
 
-.container_title2 {
+.main_first--title--second {
     font-family: "Playfair Display", sans-serif;
     font-size: 72px;
     font-weight: 400;
@@ -43,7 +43,7 @@
     margin-bottom: 12px;
 }
 
-.container_text {
+.main_first--text {
     font-family: "Roboto", sans-serif;
     font-size: 18px;
     font-weight: 400;
@@ -54,7 +54,7 @@
     margin-bottom: 41px;
 }
 
-.container_button a {
+.main_first--button a {
     display: inline-block;
     font-family: "Roboto", sans-serif;
     font-size: 24px;
